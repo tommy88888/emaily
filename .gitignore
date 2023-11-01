@@ -1,0 +1,11 @@
+node-modules
+/node-modules
+cspell.json
+.vscode
+dev.js
+/build
+.env
+.env.development
+.env.test.local
+.env.production
+node_modules
